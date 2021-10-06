@@ -1,2 +1,2 @@
 # mark-11-luckybirthdates
- jcrea-luckybirthday.netlify.app/
+ https://jcrea-luckybirthday.netlify.app/
